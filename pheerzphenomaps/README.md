@@ -1,4 +1,11 @@
 
+### Members:
+Alivia Blount
+Kennan Salinero
+Masha Aseeva
+Nikhita Damaraju
+Nitin Pasumarthy
+
 ### What we did
 
 #### Generate pathway images with variant genes highlighted
